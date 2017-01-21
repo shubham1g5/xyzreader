@@ -1,0 +1,5 @@
+<resources>
+    <!-- detail -->
+    <dimen name="detail_photo_height">384dp</dimen>
+    <dimen name="detail_body_horiz_margin">128dp</dimen>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="detail_body_elevation">0dp</dimen>
+    <dimen name="detail_body_inner_horiz_margin">16dp</dimen>
+</resources>
